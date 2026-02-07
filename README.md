@@ -12,3 +12,5 @@ Some projects are published on the Chrome Web Store, while others are experiment
 Monetization (where applicable) is transparent and user-initiated, such as affiliate links or subscriptions, in compliance with platform policies.
 
 This repository is provided for demonstration and review purposes.
+Developer: Atul Bhandari  
+Distribution: Chrome Web Store
