@@ -14,3 +14,4 @@ Monetization (where applicable) is transparent and user-initiated, such as affil
 This repository is provided for demonstration and review purposes.
 Developer: Atul Bhandari  
 Distribution: Chrome Web Store
+Impact-Site-Verification: c25c6771-0f68-41a4-ac00-710d35d13def
